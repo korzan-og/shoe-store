@@ -1,7 +1,7 @@
 ![image](terraform/img/confluent-logo-300-2.png)
 # Prerequisites
 Before we can run the hands-on workshop, a working infrastructure in Confluent Cloud must exist:
-- only AWS cloud provider (Flink SQL Preview is running in AWS only. 16-Nov-2023)
+- on AWS or Azure cloud provider
 - an environment with Schema Registry enabled,
 - a Kafka Cluster,
 - 3 topics
